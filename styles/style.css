@@ -1,0 +1,17 @@
+
+body {
+  font-family: "Sofia", sans-serif;
+}
+
+p {
+  color:blueviolet;
+}
+
+ol {
+  background-color:rgb(148, 146, 149);
+}
+
+div { 
+  border-style: dotted;
+  width: 30%;
+}
